@@ -31,7 +31,7 @@ Recipe Book is an Angular 6 web application where you can browse through a list 
 - Bootstrap 4
 - Node.js
 
-### To build a demo project
+## To build a demo project
 
 1) Clone the project repo to your machine
 
